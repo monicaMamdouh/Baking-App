@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Monica Baking App</string>
+    <string name="title_activity_steps_details">StepsDetailsActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="servingTitle">Servings</string>
+    <string name="stepDescription">Description</string>
+    <string name="JsonURL">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="empty_view_text">No Recipe Available!</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
